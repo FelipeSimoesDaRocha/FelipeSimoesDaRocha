@@ -36,14 +36,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSimoesDaRocha&layout=compact)](https://github.com/FelipeSimoesDaRocha/github-readme-stats)
-
-
-<br>
-</br>
-
-# Meu mapa mental
-
-
-<br>
-<img align="left" src="https://www.lucascaton.com.br/images/posts/2018/01/mapa-frontend.png" />
- 
