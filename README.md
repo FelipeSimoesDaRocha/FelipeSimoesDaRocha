@@ -37,9 +37,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSimoesDaRocha&layout=compact)](https://github.com/FelipeSimoesDaRocha/github-readme-stats)
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FelipeSimoesDaRocha&show_icons=true&count_private=true" />
-</div>
 
 <br>
 </br>
