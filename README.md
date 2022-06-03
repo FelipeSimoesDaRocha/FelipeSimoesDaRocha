@@ -11,11 +11,7 @@
 
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
-  <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://twitter.com/WarwickBr1">
-
  
-<br>
   
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
 <br/>
