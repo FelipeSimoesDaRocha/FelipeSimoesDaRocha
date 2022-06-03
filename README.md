@@ -13,10 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://twitter.com/WarwickBr1">
-  <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="Felipe:FelipeSimoesDaRocha@gmail.com">
-  <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a><a href="https://www.instagram.com/fe_lrocha/">
-  <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" /></a><a href="https://www.facebook.com/FeliipeSimoesDaRocha/">
-  <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a>
 
  
 <br>
