@@ -1,18 +1,4 @@
 
-# Felipe Simões da Rocha 
-
-[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://felipesimoesdarocha.netlify.app/) 
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCZHg42bcGOziqLRlGldjJpA)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214//)
-[![GitLab](https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=GitLab)](https://gitlab.com/FelipeSimoesDaRocha)
-
-![GitHub followers](https://img.shields.io/github/followers/FelipeSimoesDaRocha?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/WarwickBr1?style=flat-square)
-
-<br>
-<p align="left">
- 
-  
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
 <br/>
 <p align="left">
