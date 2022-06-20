@@ -1,4 +1,3 @@
-
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
 <br/>
 <p align="left">
