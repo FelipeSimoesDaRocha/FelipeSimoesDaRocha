@@ -1,6 +1,6 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Felipe</a></h2>
+<h2>Olá 👋, sou <a href="https://stanleylim.me/">Felipe</a></h2>
 
-<p>I'm currently a software engineer at <strong><a href="https://www.snapchat.com/">Snapchat</a></strong> and formerly at <strong><a href="https://aws.amazon.com/">AWS</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.
+<p>um desenvolvedor web full stack autodidata apaixonado e freelancer no <strong><a href="">Brasil</a></strong> and formerly at <strong>. Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo.
 
 </p><a href="https://open.spotify.com/user/22jwezqnlz7iryfppfu6ek2za"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
