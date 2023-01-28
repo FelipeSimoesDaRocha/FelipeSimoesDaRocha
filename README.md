@@ -1,6 +1,6 @@
 <h2>Olá 👋, sou <a href="https://stanleylim.me/">Felipe</a></h2>
 
-<p>um desenvolvedor web full stack autodidata apaixonado e freelancer no <strong><a href="">Brasil</a></strong> and formerly at <strong>. Minha paixão por software é sonhar com ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, a arquitetura e a qualidade do código das coisas que construo.
+<p>Desenvolvedor web full stack autodidata apaixonado e freelacer no <strong><a href="">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
 </p><a href="https://open.spotify.com/user/22jwezqnlz7iryfppfu6ek2za"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
