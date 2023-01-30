@@ -14,7 +14,7 @@
     <li>📙 Confira meu <a href="https://www.stanleylim.me/resume/resume.pdf">currículo</a>.</li>
 </ul>
 
-<h2>✒️ Recent Posts</h2>
+<h2>✒️ Postagens recentes </h2>
 
 <details>
     <summary>Explore</summary>
