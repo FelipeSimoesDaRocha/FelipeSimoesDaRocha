@@ -18,7 +18,6 @@
 
 <details>
     <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank"       href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank"           href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project —       June 09, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-browser-in-the-browser-(bitb)-attack---lies,-deceit,-and-css">The           Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/why-i-unit-     test-my-sass---mixins">Why I Unit Test My Sass - Mixins — January 31, 2022</a></li>
 </details>
 
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
