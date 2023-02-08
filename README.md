@@ -11,7 +11,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: red;
                 animation: mymove 2s infinite;
             }
 
