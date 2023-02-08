@@ -16,7 +16,7 @@
 
 <h2>🚀 Algumas ferramentas que eu uso</h2>
 <p align="left">
-    <details maxWidth="fit-content">
+    <details maxidth="fit-content">
      <summary>Front-End</summary>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
@@ -40,3 +40,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeSimoesDaRocha&show_icons=true&count_private=true" alt="FelipeSimoesDaRocha" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
+
+<input type="radio" name="pizza" value="portuguesa">
