@@ -36,7 +36,7 @@
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
    </details>
-</p>
+</div>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeSimoesDaRocha&show_icons=true&count_private=true" alt="FelipeSimoesDaRocha" />
