@@ -12,7 +12,7 @@
         <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
         <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories">Github</a>.</li>
         <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com">email</a></li>
-        <li>📙 Confira meu <a href="https://www.stanleylim.me/resume/resume.pdf">currículo</a>.</li>
+        <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/72b08aa88a2ed3c66faca4b1415a51c2dc27147d/curriculo%5BPDF%5D.pdf">currículo</a>.</li>
     </ul>
 </div>
 
