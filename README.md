@@ -1,6 +1,6 @@
 <h2 color:red>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/">Felipe</a></h2>
 
-<p><strong>Desenvolvedor web apaixonado e freelancer no <a href="">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
+<p><strong>Desenvolvedor web apaixonado e freelancer no <a href="https://linkss.app/mufmO">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
 <p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
 
@@ -37,8 +37,8 @@
    </details>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&username=FelipeSimoesDaRocha" height="150" alt="stats graph"  />
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&username=FelipeSimoesDaRocha" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=FelipeSimoesDaRocha" height="150" alt="languages graph"  />
 </div>
 
