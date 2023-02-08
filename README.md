@@ -2,7 +2,26 @@
 
 <p><strong>Desenvolvedor web apaixonado e freelancer no <a href="">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
-</p><a href="https://open.spotify.com/user/22jwezqnlz7iryfppfu6ek2za"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<div align="left">
+  <a href="https://www.instagram.com/fe_br1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/invite/YFpCswADvF" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/warwickdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="twitch logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCZHg42bcGOziqLRlGldjJpA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="44" height="32" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21069353/felipe-sim%c3%b5es-da-rocha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
+  </a>
+</div>
 
 <p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
 
