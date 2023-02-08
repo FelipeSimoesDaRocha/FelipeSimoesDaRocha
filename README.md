@@ -1,5 +1,5 @@
-<h2 color:red>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/">Felipe</a></h2>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
+<h2 color:red>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/">Felipe </a></h2>
 
 
 <p><strong>Desenvolvedor web apaixonado e freelancer no <a href="https://linkss.app/mufmO">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
