@@ -6,22 +6,6 @@
 
 <p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <style>
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-        </style>
-    </foreignObject>
-</svg>
-
-
 <h2>⚡️Alguns fatos rápidos</h2>
 <ul>
     <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
