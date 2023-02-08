@@ -5,7 +5,6 @@
 </p><a href="https://open.spotify.com/user/22jwezqnlz7iryfppfu6ek2za"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
 <p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
-<img max-width="80%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️Alguns fatos rápidos</h2>
 <ul>
