@@ -67,4 +67,4 @@
 </div>
 
     
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes})
