@@ -44,7 +44,7 @@
 </div>
   
 <h2>📈 Social medias</h2> 
-  <div align="left">
+<div>
   <a href="https://www.instagram.com/fe_br1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a>
@@ -63,8 +63,9 @@
   <a href="https://stackoverflow.com/users/21069353/felipe-sim%c3%b5es-da-rocha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes})
       
+      
+      ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes}) 
 </div>
  
     
