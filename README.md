@@ -7,6 +7,7 @@
 <p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
 
 <h2>⚡️Alguns fatos rápidos</h2>
+
 <ul>
     <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
     <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories">Github</a>.</li>
