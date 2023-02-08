@@ -9,7 +9,7 @@
     <ul>
         <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
         <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
-        <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">email</a></li>
+        <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">E-mail</a></li>
         <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf" target="_blank">currículo</a>.</li>
     </ul>
 </div>
@@ -64,8 +64,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>      
 </div>
-    
+
+<br>
+<br>
+<br>
 <p><strong>Se você gosta do que eu faço, talvez considere me comprar um café/chá🥺👉👈<p/>
 <a href="https://www.buymeacoffee.com/feliperocha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Me pague um Café" width="150" ></a>
     
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
+<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
