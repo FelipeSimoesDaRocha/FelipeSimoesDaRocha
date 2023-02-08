@@ -65,6 +65,7 @@
   </a>      
 </div>
     
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&width={300})
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za)
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes})
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
     
