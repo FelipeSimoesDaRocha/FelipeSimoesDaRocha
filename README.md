@@ -20,7 +20,6 @@
     <summary>Explore</summary>
 </details>
 
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Algumas ferramentas que eu uso</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
