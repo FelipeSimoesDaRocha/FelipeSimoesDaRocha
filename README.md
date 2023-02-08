@@ -16,7 +16,7 @@
 </ul>
 
 <h2>🚀 Algumas ferramentas que eu uso</h2>
-<div display="flex" align="left">
+<div outline="auto" align="left">
     <details maxidth="fit-content">
      <summary>Front-End</summary>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
