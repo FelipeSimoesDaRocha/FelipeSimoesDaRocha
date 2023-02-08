@@ -65,3 +65,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>
 </div>
+
+    
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za)
