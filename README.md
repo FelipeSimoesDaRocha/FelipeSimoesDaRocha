@@ -63,9 +63,10 @@
   <a href="https://stackoverflow.com/users/21069353/felipe-sim%c3%b5es-da-rocha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes})
+      
 </div>
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22jwezqnlz7iryfppfu6ek2za&unique={true|1|on|yes})
     
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
     
