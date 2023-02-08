@@ -1,4 +1,4 @@
-<h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/" target="blank">Felipe </a></h2>
+<h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe </a></h2>
 
 <p><strong>Desenvolvedor web apaixonado e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
@@ -70,5 +70,5 @@
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
 
 
-<p>se você gosta do que eu faço, talvez considere me comprar um café/chá🥺👉👈<p/>
+<p><strong>se você gosta do que eu faço, talvez considere me comprar um café/chá</strong>🥺👉👈<p/>
 <a href="https://www.buymeacoffee.com/feliperocha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Me pague um Café" width="150" ></a>
