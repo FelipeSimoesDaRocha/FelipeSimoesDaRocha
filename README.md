@@ -15,7 +15,7 @@
 </div>
 
 <h2>🚀 Algumas ferramentas que eu uso</h2>
-<div align="left">
+<div align="center">
     <details>
      <summary>Front-End</summary>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
