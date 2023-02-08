@@ -1,6 +1,6 @@
 <h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/">Felipe</a></h2>
 
-<p>Desenvolvedor web apaixonado e freelancer no <strong><a href="">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
+<p><strong>Desenvolvedor web apaixonado e freelancer no <a href="">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
 </p><a href="https://open.spotify.com/user/22jwezqnlz7iryfppfu6ek2za"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
