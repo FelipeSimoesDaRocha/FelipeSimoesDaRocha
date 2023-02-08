@@ -1,16 +1,16 @@
-<h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/">Felipe </a></h2>
+<h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe </a></h2>
 
-<p><strong>Desenvolvedor web apaixonado e freelancer no <a href="https://linkss.app/mufmO">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
+<p><strong>Desenvolvedor web apaixonado e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
 
-<p> 🍌Não se esqueça de obter um pouco de potássio🍌 </p>
+<p>🍌Não se esqueça de obter um pouco de potássio🍌</p>
 
 <h2>⚡️Alguns fatos rápidos</h2>
 <div align="left">
     <ul>
         <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
-        <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories">Github</a>.</li>
-        <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com">email</a></li>
-        <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf">currículo</a>.</li>
+        <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
+        <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">email</a></li>
+        <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf" target="_blank">currículo</a>.</li>
     </ul>
 </div>
 
