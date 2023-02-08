@@ -40,5 +40,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeSimoesDaRocha&show_icons=true&count_private=true" alt="FelipeSimoesDaRocha" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
-
-<input type="radio" name="pizza" value="portuguesa">
