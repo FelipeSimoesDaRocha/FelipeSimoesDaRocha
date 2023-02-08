@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=FelipeSimoesDaRocha" height="150" alt="gráfico de idiomas" />
 </div>
   
-<h2>📈 Social medias</h2> 
+<h2>📱 Social medias</h2> 
 <div align="left">
   <a href="https://www.instagram.com/fe_br1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
