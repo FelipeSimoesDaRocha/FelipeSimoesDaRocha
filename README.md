@@ -10,11 +10,11 @@
         <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
         <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories">Github</a>.</li>
         <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com">email</a></li>
-        <li>📙 Confira meu <a href="https://linkss.app/yqwxJ">currículo</a>.</li>
+        <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf">currículo</a>.</li>
     </ul>
 </div>
 
-<h2>🚀 Algumas ferramentas que eu uso</h2>
+<h2>🚀Algumas ferramentas que eu uso</h2>
 <div align="left">
     <details>
      <summary>Front-End</summary>
