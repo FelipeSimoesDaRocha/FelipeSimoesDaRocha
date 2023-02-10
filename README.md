@@ -1,6 +1,6 @@
 <h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe </a></h2>
 
-<p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. Todo cuidado com a experiência, a arquitetura e a qualidade de código no que construo.
+<p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes. "Sempre em busca do proximo nivel".
 
 <p>🍌Não se esqueça de obter um pouco de potássio🍌</p>
 
