@@ -40,7 +40,7 @@
     </details>
     <details>
      <summary>Designer</summary>
-
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="25" height="25" />
     </details>
 </div>
 
