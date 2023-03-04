@@ -63,7 +63,7 @@
   <a href="https://discord.com/invite/YFpCswADvF" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
   </a>
-  <a href="https://www.twitch.tv/warwickdev" target="_blank">
+  <a href="https://www.twitch.tv/felisoft" target="_blank">      
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="twitch logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCZHg42bcGOziqLRlGldjJpA" target="_blank">
