@@ -17,7 +17,8 @@
 
 <h2>🚀Algumas ferramentas que eu uso</h2>
 <div>
-    <details>
+  <div>
+    <details align="left">
       <summary>Front-End</summary>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="25" height="25" />
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -38,7 +39,8 @@
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
       </details>
-    <div>
+    </div>
+    <div align="right">
       <details>
       <summary>Designer</summary>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="25" height="25" />
