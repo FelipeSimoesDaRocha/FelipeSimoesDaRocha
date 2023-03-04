@@ -17,7 +17,7 @@
 
 <h2>🚀Algumas ferramentas que eu uso</h2>
 <div>
-  <div>
+  <div display="flex">
     <details align="left">
       <summary>Front-End</summary>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="25" height="25" />
