@@ -1,4 +1,4 @@
-# Contributing to DevIcons
+# Contributing to Readme
 
 Want to contribute to DevIcons? There are a few things you need to know.  
 
