@@ -14,6 +14,7 @@
         <li>⚙️ Confira meus desafios <a href="https://github.com/orgs/WarwickBr1/repositories" target="_blank">Github/desafios</a>.</li>
         <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">E-mail</a></li>
         <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf" target="_blank">currículo</a>.</li>
+        <li>Conheça a <a href="https://www.eliti.com.br/">Eliti<a/></li>
     </ul>
 </div>
 
