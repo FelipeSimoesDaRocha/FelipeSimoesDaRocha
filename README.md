@@ -8,7 +8,6 @@
 <h2>⚡️Alguns fatos rápidos</h2>
 <div align="left">
     <ul>
-        <li>🧐 Aprendendo sobre <strong>serverless architectures</strong>.</li>
         <li>💻 Como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">Dev em 2023</a>.</li>
         <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
         <li>⚙️ Conheça a<a href="https://github.com/orgs/WarwickBr1" target="_blank"> Devwick</a>.</li>
