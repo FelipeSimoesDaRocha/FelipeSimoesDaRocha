@@ -1,4 +1,4 @@
-<h2>Olá 👋, sou <a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe </a></h2>
+<h2><a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe Simões da Rocha</a></h2>
 
 <p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes.
 "Sempre em busca do proximo nivel".
