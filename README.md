@@ -10,7 +10,7 @@
     <ul>
         <li>💻 Como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">Dev em 2023</a>.</li>
         <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
-        <li>⚙️ Conheça a<a href="https://github.com/orgs/WarwickBr1" target="_blank"> Devwick</a>.</li>
+        <li>⚙️ Perfil de desafio :<a href="https://github.com/orgs/WarwickBr1" target="_blank">Devwick</a>.</li>
         <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">E-mail.</a></li>
         <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf" target="_blank">currículo</a>.</li>
     </ul>
