@@ -1,22 +1,21 @@
-<h2><a href="https://felipe-rocha.vercel.app/" target="_blank" color="red">Felipe Simões da Rocha</a></h2>
+<h2><a href="https://felipe-rocha.vercel.app/" target="_blank" style="color: red;">Felipe Simões da Rocha</a></h2>
 
-<p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é sonhar com ideias e torná-las realidade com interfaces elegantes.
-"Sempre em busca do proximo nivel".
+<p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é transformar ideias em realidade por meio de interfaces elegantes. Sempre em busca do próximo nível.</strong></p>
 
-<p>🍌Não se esqueça de obter um pouco de potássio🍌</p>
+<p>🍌 Não se esqueça de obter um pouco de potássio! 🍌</p>
 
-<h2>⚡️Alguns fatos rápidos</h2>
+<h2>⚡ Alguns fatos rápidos</h2>
 <div align="left">
     <ul>
-        <li>💻 Como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">Dev em 2023</a>.</li>
-        <li>👨‍💻 A maioria dos meu projetos estão disponíveis no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
-        <li>⚙️ Perfil de desafio : <a href="https://github.com/orgs/WarwickBr1" target="_blank">Devwick</a>.</li>
-        <li>💼 Algum trabalho freelance? entre em contato, <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">E-mail.</a></li>
+        <li>💻 Escrevi um artigo sobre como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">dev em 2023</a>.</li>
+        <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
+        <li>⚙️ Faço parte do perfil de desafio <a href="https://github.com/orgs/WarwickBr1" target="_blank">Devwick</a>.</li>
+        <li>💼 Precisa de ajuda em um projeto freelance? Entre em contato comigo pelo <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">e-mail</a>.</li>
         <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesDaRocha/FelipeSimoesDaRocha/20afd8addb05fef498b106cf5ccfed7d3c7369f2/curriculo%5BPDF%5D.pdf" target="_blank">currículo</a>.</li>
     </ul>
 </div>
 
-<h2>🚀Algumas ferramentas que utilizo</h2>
+<h2>🚀 Algumas ferramentas que eu uso</h2>
 <div>
   <details align="left">
     <summary>Front-End</summary>
