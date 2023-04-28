@@ -16,7 +16,7 @@
     </ul>
 </div>
 
-<h2>🚀Algumas ferramentas que eu uso</h2>
+<h2>🚀Algumas ferramentas que utilizo</h2>
 <div>
   <details align="left">
     <summary>Front-End</summary>
