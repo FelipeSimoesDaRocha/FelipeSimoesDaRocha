@@ -7,7 +7,7 @@
 <h2>⚡ Alguns fatos rápidos</h2>
 <div align="left">
     <ul>
-        <li>💻 Escrevi um artigo sobre "como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">Dev em 2023"</a>.</li>
+        <li>💻 Escrevi um artigo sobre "como ser um bom <a href="https://dev-expert-ten.vercel.app/" target="_blank">Dev em 2023</a>."</li>
         <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/FelipeSimoesDaRocha?tab=repositories" target="_blank">Github</a>.</li>
         <li>⚙️ Meu de desafio <a href="https://github.com/orgs/WarwickBr1" target="_blank">Devwick</a>.</li>
         <li>💼 Precisa de ajuda em um projeto freelance? Entre em contato comigo pelo <a href="mailto:Felipe.SimoesDaRocha@Gmail.com" target="_blank">E-mail</a>.</li>
