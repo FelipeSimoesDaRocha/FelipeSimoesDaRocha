@@ -82,7 +82,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>      
 </div>
-
 <br>
 <br>
 <p><strong>Se você gosta do que eu faço, talvez considere me comprar um café/chá🥺👉👈<p/>
