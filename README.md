@@ -1,6 +1,6 @@
 <h2><a href="https://felipe-rocha.vercel.app/" target="_blank">Felipe Simões da Rocha</a></h2>
 
-<p><strong>Desenvolvedor web e freelancer no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é transformar ideias em realidade por meio de interfaces elegantes. Sempre em busca do próximo nível.</strong></p>
+<p><strong>Desenvolvedor web no <a href="https://linkss.app/mufmO" target="_blank">Brasil</a>. Minha paixão é transformar ideias em realidade por meio de interfaces elegantes. Sempre em busca do próximo nível.</strong></p>
 
 <p>🍌 Não se esqueça de obter um pouco de potássio! 🍌</p>
 
