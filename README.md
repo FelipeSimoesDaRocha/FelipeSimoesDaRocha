@@ -76,8 +76,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="44" height="32" alt="stackoverflow logo"  />
   </a>      
 </div>
-<br>
-<br>
-<p><strong>Se você gosta do que eu faço, talvez considere me comprar um café/chá🥺👉👈<p/>
-<a href="https://www.buymeacoffee.com/feliperocha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Me pague um Café" width="150" ></a>
-<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=FelipeSimoesDaRocha.FelipeSimoesDaRocha" alt="visitantes"></p>
